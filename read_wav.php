@@ -2,8 +2,6 @@
 
 ini_set('memory_limit', '256M');
 
-//$file = "./files/wav/環境音パ30.wav";
-
 const SAMPLE_PER_SEC = 44100;
 const MAX_VALUE = 32767;
 
